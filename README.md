@@ -1,2 +1,1 @@
-# sql-data-warehouse-project
-Building a data warehouse with SQL micro soft server, ETL processes, data modeling and analysis.
+Building a dataware house, extracing, taransforming and loading int different layers
