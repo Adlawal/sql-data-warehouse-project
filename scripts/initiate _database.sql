@@ -4,7 +4,7 @@ Create Database and Schemas
 =========================================================================================
 
 Purpose of script:
-This script crestes a new database called 'DataWarehouse'.
+This script create a new database called 'DataWarehouse'.
 Additionally, the script also creates three schemas inside the database:
 'bronze' , 'silver' , 'gold'.
 
